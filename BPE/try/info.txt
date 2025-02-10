@@ -1,0 +1,2 @@
+1;Animals;55.00leva
+46;Amis;23.55leva

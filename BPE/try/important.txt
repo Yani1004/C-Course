@@ -1,0 +1,6 @@
+fopen()-> returns NULL if there is an error
+fscanf()-> used to read formatted strings and variables from txt file
+fgets()-> gets the whole line
+fgetc()-> reads a singe char character
+fread()-> reads the specific bytes of data from bin files
+*returns a value less than the count or zero if there is a mistake and returns the num of elements that are read successfully from the file otherwise;

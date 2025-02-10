@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1733008477 source:d:\university\caa\kr\test.c
+	<stdio.h>
+	<limits.h>
+
+1584205420 source:d:\university\bpe-sem\zadacji\main.c
+	<stdio.h>
+	<stdlib.h>
+
